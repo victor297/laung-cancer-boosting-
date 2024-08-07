@@ -53,7 +53,7 @@ def get_user_input():
 
 # Streamlit UI
 st.title('Lung Cancer Prediction')
-st.write('Olorunfemi Oluwadarasimi Samuel By 20/47cs/01125')
+st.write('By Olorunfemi Oluwadarasimi Samuel 20/47cs/01125')
 
 st.write('Please input the following details:')
 
